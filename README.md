@@ -6,7 +6,7 @@
 **дайте пліз**
 *лабу*
 ~~з алгоритмів~~
-[24 варіант 🥹]([http://www.example.com](https://docs.google.com/document/d/1dY-RV7Kxf2OpCXvxpikWHzwfKPpfJQaF/edit)https://docs.google.com/document/d/1dY-RV7Kxf2OpCXvxpikWHzwfKPpfJQaF/edit)
+[24 варіант 🥹:)](http://www.example.com](https://docs.google.com/document/d/1dY-RV7Kxf2OpCXvxpikWHzwfKPpfJQaF/edit)https://docs.google.com/document/d/1dY-RV7Kxf2OpCXvxpikWHzwfKPpfJQaF/edit)
 `function func(number){
     let sum = 0;
     for(let i=1; i<10; i++){
